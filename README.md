@@ -14,15 +14,15 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 ### Soft skills 💬
 
-  • Team work - I love working in teams, we can always get better results together and learn ones from the others.
+  • Team work - I love working in teams, we can always get better results together and learn one from each other.
   
   • Independent - As I'm able to work collaboratively I can also work independently.
   
-  • Longlife learner - I always like to stay updated with things that I have learned but also learning new things. 
+  • Continuous learning - I always like to stay updated with things that I have learned but also learning new things. 
   
   • Active person - I'm able to recognize problems or needs and I try to take action to resolve them. 
   
-  • Receptive - I like to get feedback from others to know differents points views and imporove my skills.
+  • Receptive - I like to get feedback from others to know differents points of view and imporove my skills.
 
 ### Stack 🛠
 

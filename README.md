@@ -38,6 +38,7 @@ I'm a person who likes being in constant learning and having differents kind of 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
  <br />
  <br />
+ <br />
  
 </p>
 

@@ -32,6 +32,7 @@ I'm a person who likes being in constant learning and having differents kind of 
 ### My GitHub stats 📈
 
 
+<div align="center">
 <p align="center">
    
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)

@@ -29,7 +29,9 @@ I'm a person who likes being in constant learning and having differents kind of 
 <a href="https://www.cprogramming.com/" target="_blank" ><img src="https://user-images.githubusercontent.com/98346306/163439398-d1d218b4-8d7d-46e8-8ccc-02f497d45fd3.png" width="50" height="50"/>
   
 ### My GitHub stats 📈
- 
+
+<div align="center">
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
   

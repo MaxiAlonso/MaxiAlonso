@@ -28,15 +28,17 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 <a href="https://www.cprogramming.com/" target="_blank" ><img src="https://user-images.githubusercontent.com/98346306/163439398-d1d218b4-8d7d-46e8-8ccc-02f497d45fd3.png" width="50" height="50"/>
 <a href="https://www.python.org/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50" height="50"/>
+
 ### My GitHub stats 📈
 
-<div align="center">
+
+<p align="center">
    
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
  
-</div>
+</p>
 
 ### How to reach me 📫
 

@@ -31,20 +31,21 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 ### My GitHub stats 📈
 
-<p align="center">
-   
-![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
- <br />
- <br />
- <br />
- 
-</p>
+<div align="center">
 
+![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
+
+</div>
+
+------
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MaxiHBTN&theme=react-dark&area=true)
+
+------
 ### How to reach me 📫
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-alonso-262b05123/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malonsogamba@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maxalon3194)
-  

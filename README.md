@@ -32,10 +32,15 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 <div align="center">
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
+![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
-  
- ### How to reach me 📫
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react&hide_border=true&background=FFFFFF00)
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Nachop51&theme=darcula&hide_border=true&background=FFFFFF00" alt="Nachop51" />
+
+ 
+</div>
+
+### How to reach me 📫
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-alonso-262b05123/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malonsogamba@gmail.com)

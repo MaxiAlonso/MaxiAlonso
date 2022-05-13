@@ -34,7 +34,7 @@ I'm a person who likes being in constant learning and having differents kind of 
    
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react&hide_border=true&background=FFFFFF00)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
  
 </div>
 

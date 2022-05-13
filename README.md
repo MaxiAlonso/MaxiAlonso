@@ -31,13 +31,13 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 ### My GitHub stats 📈
 
-
-<div align="center">
 <p align="center">
    
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
+ <br />
+ <br />
  
 </p>
 

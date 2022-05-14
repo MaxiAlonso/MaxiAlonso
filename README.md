@@ -12,6 +12,8 @@ I chose Holberton for my education because their curriculum is very complete, bu
 
 I'm a person who likes being in constant learning and having differents kind of challenges in a professional and educational way.
 
+---
+
 ### Soft skills 💬
 
   • Team work - I love working in teams, we can always get better results together and learn one from each other.
@@ -24,26 +26,33 @@ I'm a person who likes being in constant learning and having differents kind of 
   
   • Receptive - I like to get feedback from others to know differents points of view and imporove my skills.
 
+---
+
 ### Stack 🛠
 
 <a href="https://www.cprogramming.com/" target="_blank" ><img src="https://user-images.githubusercontent.com/98346306/163439398-d1d218b4-8d7d-46e8-8ccc-02f497d45fd3.png" width="50" height="50"/>
 <a href="https://www.python.org/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50" height="50"/>
+<a href="https://github.com/" target="_blank" ><img src="https://pngimg.com/uploads/github/github_PNG83.png" width="50" height="50"/>
+<a href="https://git-scm.com/" target="_blank" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>
+---
 
 ### My GitHub stats 📈
 
-<div align="center">
+<div align="left">
 
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
+  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
 
 </div>
 
-------
+---
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MaxiHBTN&theme=react-dark&area=true)
 
-------
+---
 ### How to reach me 📫
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-alonso-262b05123/)

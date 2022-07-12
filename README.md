@@ -30,7 +30,7 @@ I'm a person who likes being in constant learning and having differents kind of 
 
 ### Stack 🛠
 
-<a href="https://www.cprogramming.com/" target="C" ><img src="https://user-images.githubusercontent.com/98346306/163439398-d1d218b4-8d7d-46e8-8ccc-02f497d45fd3.png" width="50" height="50"/>
+<a href="https://www.cprogramming.com/" target="_blank" ><img src="https://user-images.githubusercontent.com/98346306/163439398-d1d218b4-8d7d-46e8-8ccc-02f497d45fd3.png" width="50" height="50"/>
 <a href="https://www.python.org/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50" height="50"/>
 <a href="https://github.com/" target="_blank" ><img src="https://pngimg.com/uploads/github/github_PNG83.png" width="50" height="50"/>
 <a href="https://git-scm.com/" target="_blank" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>

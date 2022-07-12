@@ -36,7 +36,8 @@ I'm a person who likes being in constant learning and having differents kind of 
 <a href="https://git-scm.com/" target="_blank" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>
 <a href="https://visualstudio.microsoft.com/es/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
 <a href="https://www.gnu.org/software/bash/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" width="50" height="50"/>
-<a href="https://www.mysql.com/" target="_blank" ><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="60" height="60"/>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="60" height="60"/>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"/>
 
 ---
 

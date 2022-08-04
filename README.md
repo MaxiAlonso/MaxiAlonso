@@ -10,7 +10,7 @@ Our cohort started at january 2022 so I will be graduated on november 2022.
 
 I chose Holberton for my education because their curriculum is very complete, but also they focuse in our softskills, teaching us how to become better professionals everyday.
 
-I'm a person who likes being in constant learning and having differents kind of challenges in a professional and educational way.
+I'm a person who likes being in constant learning and having different kind of challenges in a professional and educational way.
 
 ---
 

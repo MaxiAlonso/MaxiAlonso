@@ -2,13 +2,11 @@
 
 ### About me 🌱
 
-My name is Maximiliano Alonso and I'm currently learning programming.
+My name is Maximiliano Alonso and I'm recently graduated as software developer.
 
-I'm a member of cohort 17 at Holberton School Uruguay, school that I chose to become a Software Engineer. 
+I was a member of cohort 17 at Holberton School Uruguay, school that I chose to become a Software Developer. 
 
-Our cohort started at january 2022 so I will be graduated on november 2022. 
-
-I chose Holberton for my education because their curriculum is very complete, but also they focuse in our softskills, teaching us how to become better professionals everyday.
+I chose Holberton for my education because their curriculum is very complete, but also they focused in our softskills, teaching us how to become better professionals everyday.
 
 I'm a person who likes being in constant learning and having different kind of challenges in a professional and educational way.
 

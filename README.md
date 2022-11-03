@@ -2,7 +2,7 @@
 
 ### About me 🌱
 
-My name is Maximiliano Alonso and I'm recently graduated as software developer.
+My name is Maximiliano Alonso and I have just graduated as a software developer.
 
 I was a member of cohort 17 at Holberton School Uruguay, school that I chose to become a Software Developer. 
 

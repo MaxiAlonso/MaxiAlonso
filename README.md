@@ -4,9 +4,9 @@
 
 My name is Maximiliano Alonso and I have just graduated as a software developer.
 
-I was a member of cohort 17 at Holberton School Uruguay, school that I chose to become a Software Developer. 
+I was a member of cohort 17 at Holberton School Uruguay, school that I chose to become a Software Developer.
 
-I chose Holberton for my education because their curriculum is very complete, but also they focused in our softskills, teaching us how to become better professionals everyday.
+At the moment I am taking my first steps in the IT industry working as IT trainee in TCS.
 
 I'm a person who likes being in constant learning and having different kind of challenges in a professional and educational way.
 

@@ -55,9 +55,6 @@ I'm a person who likes being in constant learning and having different kind of c
 
 ---
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MaxiAlonso&theme=react-dark&area=true)
-
----
 ### How to reach me 📫
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-alonso-262b05123/)

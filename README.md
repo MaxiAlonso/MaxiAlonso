@@ -45,17 +45,17 @@ I'm a person who likes being in constant learning and having different kind of c
 
 <div align="left">
 
-![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiHBTN&count_private=true&theme=react)
+![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiAlonso&count_private=true&theme=react)
   
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiHBTN&theme=react)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MaxiAlonso&theme=react)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiHBTN&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiAlonso&layout=compact&theme=react)
 
 </div>
 
 ---
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MaxiHBTN&theme=react-dark&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MaxiAlonso&theme=react-dark&area=true)
 
 ---
 ### How to reach me 📫
